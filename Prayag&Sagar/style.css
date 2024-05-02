@@ -1,0 +1,130 @@
+
+body {
+  border-width: 'medium';
+  margin: 2%;
+  border-color: white;
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: xx-large;
+}
+
+p.centered {
+  width: 50%; 
+  text-align: center;
+  margin: 10% auto; 
+}
+
+h2 {
+  text-align: center;
+  font-size: x-large;
+}
+
+h3 {
+  text-align: left;
+  font-size: large;
+}
+
+h4{
+  text-align: left;
+  font-size: medium;
+}
+
+
+.footnote {
+  text-align: center;
+  font-size: small;
+}
+
+p {
+  text-align: left;
+  font-size: medium;
+}
+
+
+.topnav {
+  
+  overflow: hidden;
+  color: white;
+padding: 10px;
+ text-align: center;
+  background-color: black;
+  font-size: 17px;
+
+}
+
+.topnav a {
+  
+  float: center;
+  color: white;
+  
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: blue;
+  color: white;
+}
+
+.topnav a:active {
+  background-color: #ffb500;
+  color: white;
+}
+
+.footer {
+  position: fixed;
+  width: 100%;
+  color: black;
+  text-align: left;
+  margin: 10;
+}
+
+.footer a:link{
+  color: white;
+}
+
+.box-1{
+  background-color: #ffb500;
+  color: white;
+  border:5px #ffb500 solid;
+  padding:20px;
+  margin:20px 0;
+}
+
+.box-2 {
+  background-color: #4f2c1d;
+  color: white;
+  border:5px #ffb500 solid;
+  padding:20;
+}
+  
+  ul a:link {
+  color:white;
+  }
+
+li a:hover {
+  color: white;
+}
+
+#skipnav {
+  color: #000000;
+}
+
+#AdelphiLogo {
+  text-align: left;
+}
+
+#scrollclass{
+  overflow-y:scroll;
+}
